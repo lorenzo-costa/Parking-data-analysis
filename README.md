@@ -13,4 +13,4 @@ The main finding of the analysis are:
 - demand is higher during weekdays (Monday-Friday)
 - demand is lower when it rains
 
-The report was written following the framework presented in the paper "Theory-Driven Strategic Management Decisions" (Camuffo et. al, 2022)
+The report was written in a second moment following the framework presented in the paper "Theory-Driven Strategic Management Decisions" (Camuffo et. al, 2022), for a university group project.
